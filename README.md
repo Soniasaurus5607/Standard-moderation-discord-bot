@@ -16,7 +16,7 @@ Run these commands in the command prompt:
 
 npm init -y \
 npm install discord.js @discordjs/voice @distube/ytdl-core dotenv \
-npm install luxon 
+npm install luxon \
 npm install node-fetch
 
 
