@@ -2,7 +2,6 @@ import { Client, GatewayIntentBits, Partials, EmbedBuilder } from 'discord.js'; 
 import dotenv from 'dotenv';
 import fetch from 'node-fetch';
 import { DateTime } from 'luxon';
-import fetch from 'node-fetch';
 
 
 dotenv.config();
