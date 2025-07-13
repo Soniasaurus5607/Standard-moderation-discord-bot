@@ -24,3 +24,6 @@ click on this link https://discord.com/developers/applications , log into your d
 in the top right corner that says "New Application". Give it a name and agree to discord's TOS. In the left bar click on OAuth2. Scroll down until you
 see multiple check boxes. Check the bot one, scroll down check the administrator one as well. Scroll down and copy the link you got and paste it in your browser.
 Invite your bot to your discord server.
+
+**5. Coding the discord bot**
+
