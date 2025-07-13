@@ -28,7 +28,7 @@ and "server members intent"
 
 **5. Coding the discord bot**
 
-Download the index.js file from this github page in your discord bot folder. Also download the .env file in your discord bot folder, open it with notepad and replace "insert your bot token here" with the token you just copied.Dont forget to save it by clicking "Ctrl+S" 
+Download the index.js file from this github page in your discord bot folder. Also download the .env file in your discord bot folder, and erase the "txt" at the end. Open it with notepad and replace "insert your bot token here" with the token you just copied.Dont forget to save it by clicking "Ctrl+S" 
 
 **6. Editing the _Package.json_ file**
 
