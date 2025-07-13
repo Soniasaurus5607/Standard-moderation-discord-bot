@@ -34,11 +34,11 @@ Download the index.js file from this github page in your discord bot folder. Als
 
 Open the _package.json_ file in notepad. paste this _"type": "module",_ under the _"version": "1.0.0",_. Dont forget to save it by clicking "Ctrl+S"
 
-**7. Running the bot**
+**7. Running the bot** \
 Open command prompt how i explained previously and navigate to your folder. Run the command "node index.js" and after 2-3 seconds you should see
 "Logged in as _your bot#1234_"
 
-**8. Exploring the bot**
+**8. Exploring the bot** \
 Run the !help command to see what commands there are
 
 
