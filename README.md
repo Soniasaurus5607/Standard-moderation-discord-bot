@@ -7,4 +7,8 @@ A script in javascript that brings your bot to life, adding commands like mute, 
 open your command prompt by hitting WIN+R on your keyboard and writing "cmd" and press OK. In  the windows that just opened you have to
 write _node -v_. If it spits out an error you have to install node by clicking this link https://nodejs.org/en .
 
+**2. Creating our bot folder** \
+open file explorer and create a bot folder where you want. open command prompt like i showed you before and navigate to
+the folder by using the command _cd *insert folder here*_
+
   
