@@ -11,4 +11,12 @@ write _node -v_. If it spits out an error you have to install node by clicking t
 open file explorer and create a bot folder where you want. open command prompt like i showed you before and navigate to
 the folder by using the command _cd *insert folder here*_
 
-  
+**3. Setting up our folder**
+Run these commands in the command prompt:
+
+npm init -y
+npm install discord.js @discordjs/voice @distube/ytdl-core dotenv
+npm install luxon
+
+**4.Creating our discord bot**
+
