@@ -22,8 +22,24 @@ npm install luxon
 
 click on this link https://discord.com/developers/applications , log into your discord account. After you've done that you need to click the blue button
 in the top right corner that says "New Application". Give it a name and agree to discord's TOS. In the left bar click on OAuth2. Scroll down until you
-see multiple check boxes. Check the bot one, scroll down check the administrator one as well. Scroll down and copy the link you got and paste it in your browser.
-Invite your bot to your discord server.
+see multiple check boxes. Check the bot one, scroll down check the administrator one as well. Scroll down and copy the link you got and paste it in your browser. 
+Invite your bot to your discord server. After you've done that, go in the bot tab, click reset token and copy it. Also scroll down and enable "message content intent" 
+and "server members intent"
 
 **5. Coding the discord bot**
 
+Download the index.js file from this github page in your discord bot folder. Also download the .env file in your discord bot folder, open it with notepad and replace "insert your bot token here" with the token you just copied.Dont forget to save it by clicking "Ctrl+S" 
+
+**6. Editing the _Package.json_ file**
+
+Open the _package.json_ file in notepad. paste this _"type": "module",_ under the _"version": "1.0.0",_. Dont forget to save it by clicking "Ctrl+S"
+
+**7. Running the bot**
+Open command prompt how i explained previously and navigate to your folder. Run the command "node index.js" and after 2-3 seconds you should see
+"Logged in as _your bot#1234_"
+
+**8. Exploring the bot**
+Run the !help command to see what commands there are
+
+
+**HOPE YOU ENJOY IT ❤️**
