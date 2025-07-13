@@ -14,9 +14,9 @@ the folder by using the command _cd *insert folder here*_
 **3. Setting up our folder**
 Run these commands in the command prompt:
 
-npm init -y
-npm install discord.js @discordjs/voice @distube/ytdl-core dotenv
-npm install luxon
+npm init -y \
+npm install discord.js @discordjs/voice @distube/ytdl-core dotenv \
+npm install luxon \
 
 **4.Creating our discord bot**
 
